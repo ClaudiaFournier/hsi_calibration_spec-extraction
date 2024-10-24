@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+env/
+venv/
+.Python
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# PyInstaller
+*.spec
+
+# Unit test / coverage reports
+.tox/
+.coverage
+.pytest_cache/
+
+# Sphinx documentation
+docs/_build/
+
+# IDE settings
+.vscode/
+.idea/
