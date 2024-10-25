@@ -54,7 +54,7 @@ Once the images are calibrated, the spectral data is extracted from the **Region
 
 ### (3) Spectral Grouping
 
-To reduce noise and maintain the spectral variability, the extracted spectra are grouped into packages of 20 randomly selected spectra. This grouping helps avoid potential spatial biases and ensures a representative sample from each image. To prevent overfitting in subsequent analyses, only a small percentage (approximately 3%) of the spectral packages are retained for further processing (fewer than 30 spectral packages per image).
+To reduce noise and maintain the spectral variability, the extracted spectra are grouped into packages of 20 randomly selected spectra. This grouping helps avoid potential spatial biases and ensures a representative sample from each image. To prevent overfitting in subsequent analyses, only a small percentage (in this case 3%) of the spectral packages are retained for further processing (fewer than 30 spectral packages per image).
 
 
 ## Notebooks and usage
