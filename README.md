@@ -6,7 +6,7 @@
 ![ReleaseDate](https://img.shields.io/badge/release%20date-oct%202024-red)
 ![OpenSource](https://img.shields.io/badge/OpenSource-Yes!-6f42c1)
 
-# Classification of Bloom-Forming Toxic Cyanobacteria via Hyperspectral Imaging and Deep Learning
+# Classification of Bloom-Forming Toxic Cyanobacteria via Hyperspectral Imaging and Deep Learning - code for hyperspectral image calibration and spectral extraction.
 
 This is the official repository for the code accompanying the paper **"Classification of bloom-forming toxic cyanobacteria in mixed assemblages via hyperspectral imaging and deep learning."**
 
@@ -74,9 +74,9 @@ The `notebooks/` directory contains the following Jupyter notebooks:
 
 ## Data Availability
 
-A demo dataset to run the code is provided at [Download the dataset from Google Drive](https://drive.google.com/drive/folders/1yCDgA1DhtjcZH6fBM-d-S06rzRTNunhs?usp=drive_link)
+A demo dataset to run the code is provided at [Download the dataset from Google Drive](https://drive.google.com/drive/folders/1U7D0wilTyeWWNS8UFReOImpUR5D1l3zS?usp=drive_link)
 
-Please download and add the `data` folder into the `hyperspectral_analysis` folder.
+Please download and add the `data` folder into the `notebook` folder.
 
 
 ## Contributors
