@@ -42,9 +42,9 @@ The first step in the hyperspectral image processing is calibration, which corre
 $I_i = (R_i - D_i) / (W_i - D_i)$
 
 Where:
-- `I_i` is the corrected hyperspectral image,
-- `R_i` is the raw hyperspectral image,
-- `W_i` is the white reference image,
+- $`I_i`$ is the corrected hyperspectral image,
+- $`R_i`$ is the raw hyperspectral image,
+- `$W_i$` is the white reference image,
 - `D_i` is the dark reference image,
 - `i` corresponds to the pixel index.
 
