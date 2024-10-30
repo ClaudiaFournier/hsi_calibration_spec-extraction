@@ -39,7 +39,7 @@ The hyperspectral images used in this project were acquired using a line-scannin
 
 The first step in the hyperspectral image processing is calibration, which corrects the raw image data by removing noise and normalizing the spectral values based on the reference images. The calibration was performed using the following equation:
 
-I_i = (R_i - D_i) / (W_i - D_i)
+$I_i = (R_i - D_i) / (W_i - D_i)$
 
 Where:
 - `I_i` is the corrected hyperspectral image,
