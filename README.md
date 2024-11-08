@@ -5,6 +5,7 @@
 ![Spectral](https://img.shields.io/badge/spectral-v0.22.2-yellowgreen)
 ![ReleaseDate](https://img.shields.io/badge/release%20date-oct%202024-red)
 ![OpenSource](https://img.shields.io/badge/OpenSource-Yes!-6f42c1)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14055906.svg)](https://doi.org/10.5281/zenodo.14055906)
 
 # Coupling hyperspectral imaging and deep learning to detect bloom-forming toxic cyanobacteria in mixed assemblages - code for hyperspectral image calibration and spectral extraction.
 
