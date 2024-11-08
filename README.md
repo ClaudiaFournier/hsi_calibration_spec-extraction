@@ -6,9 +6,9 @@
 ![ReleaseDate](https://img.shields.io/badge/release%20date-oct%202024-red)
 ![OpenSource](https://img.shields.io/badge/OpenSource-Yes!-6f42c1)
 
-# Classification of Bloom-Forming Toxic Cyanobacteria via Hyperspectral Imaging and Deep Learning - code for hyperspectral image calibration and spectral extraction.
+# Coupling hyperspectral imaging and deep learning to detect bloom-forming toxic cyanobacteria in mixed assemblages - code for hyperspectral image calibration and spectral extraction.
 
-This is the official repository for the code accompanying the paper **"Classification of bloom-forming toxic cyanobacteria in mixed assemblages via hyperspectral imaging and deep learning."**
+This is the official repository for the code accompanying the paper **"Coupling hyperspectral imaging and deep learning to detect bloom-forming toxic cyanobacteria in mixed assemblages."**
 
 **Authors**: [Claudia Fournier<sup>1</sup>](https://www.linkedin.com/in/claudia-fournier/), 
 [Samuel Cirés<sup>1</sup>](https://uam.es/Ciencias/Samuel-Cir%C3%A9s-G%C3%B3mez/1446778837268.htm?language=es&pid=1446767912028&s%20G?mez,%20Samuel), 
@@ -22,7 +22,7 @@ This is the official repository for the code accompanying the paper **"Classific
 
 This repository contains Jupyter notebooks used for the calibration of hyperspectral images and the extraction of spectral data from the region of interest.
 
-**For more details, please refer to the [paper(LINK)]** 
+**For more details, please refer to the [paper(LINK)]** (paper available soon)
 
 
 ## Introduction
@@ -90,7 +90,7 @@ The following authors were also responsible for the code in this repository:
 
 If you find our work useful in your research, please consider citing:
 
-INCLUDE CITATION
+INCLUDE CITATION (paper available soon)
 
 
 ## License
@@ -101,3 +101,4 @@ This project is licensed under the EUPL-1.2 License.
 ## Updates
 
 * dd/mm/YYYY modification message
+* 08/11/2024 publication date
